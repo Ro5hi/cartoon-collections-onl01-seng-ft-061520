@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarves)
 
-[]
-
+# %w(cat dog wombat).each_with_index { |item, index|
+ 
 end
 
 def summon_captain_planet# code an argument here
