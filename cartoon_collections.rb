@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarves)
 
-# %w(cat dog wombat).each_with_index { |item, index|
+  dwarves.each_with_index do |names, index|
  
 end
 
