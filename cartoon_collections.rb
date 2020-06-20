@@ -25,17 +25,7 @@ def find_the_cheese(cheddar_cheese)
 
   cheese_types.each do |cheddar|
   if cheese_types.include? "cheddar"
-  result = cheddar
-  return cheddar
+  return nil
     end
   end
 end 
-
-def find_the_cheese(no_cheese)
-  no_cheese = [ham cellphone computer]
-  no_cheese.each do |cheese|
-  if no_cheese.include? "cheese"
-  return results
-    end 
-  end 
-end
