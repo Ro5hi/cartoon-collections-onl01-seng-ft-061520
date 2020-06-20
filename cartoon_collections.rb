@@ -9,13 +9,14 @@ def summon_captain_planet(veggies)
   veggies.each do |veg|
     puts "#{veg.capitalize}!"
    end
+    fruits.each do |fruit|
+    puts "#{fruit.capitalize}!"
+  end
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+def long_planeteer_calls
 end
 
-def find_the_cheese# code an argument here
-  # the array below is here to help
+def find_the_cheese(cheddar_cheese)
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
